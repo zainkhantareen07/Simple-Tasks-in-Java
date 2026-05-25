@@ -15,6 +15,7 @@ public class BinarySearch {
                 right = mid - 1; // Search in the left half
             }
         }
+        
 
         return -1; // Target not found
     }
